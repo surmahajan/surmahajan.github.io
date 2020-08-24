@@ -1,2 +1,1 @@
-# surmahajan.github.io
-Reference notes
+# Reference notes
