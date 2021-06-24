@@ -16,12 +16,12 @@
 6. Scale
 7. Other services: IAM, CloudWatch, Trusted Advisor
 ---
-AWS Security responsibilities (Security of the cloud)
+`AWS Security responsibilities` (Security of the cloud)
     - Global Infrastructure
     - Hardware, Software, Networking, Facilities
     - Managed Services (S3, DynamoDB)
 
-Customer Security responsibilities (Security in the cloud)
+`Customer Security responsibilities` (Security in the cloud)
     - Infrasrtucture as a Service (EC2)
     - Upgrades, Security patches, 
     - Configuration of AWS provided firewall (NaCLs)
